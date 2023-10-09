@@ -6,6 +6,7 @@ package beecrowd1000.gradle;
 public class App {
     public String getGreeting() {
         return "Hello World!";
+        // Fechando Issue #1
     }
 
     public static void main(String[] args) {
